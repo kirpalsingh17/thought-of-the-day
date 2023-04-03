@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thought-of-the-day/static/css/main.1dbdff40.css",
+    "main.js": "/thought-of-the-day/static/js/main.006aa0ce.js",
+    "static/js/787.467e3559.chunk.js": "/thought-of-the-day/static/js/787.467e3559.chunk.js",
+    "static/media/hd1.jpg": "/thought-of-the-day/static/media/hd1.ceb635544b272353c60a.jpg",
+    "index.html": "/thought-of-the-day/index.html",
+    "main.1dbdff40.css.map": "/thought-of-the-day/static/css/main.1dbdff40.css.map",
+    "main.006aa0ce.js.map": "/thought-of-the-day/static/js/main.006aa0ce.js.map",
+    "787.467e3559.chunk.js.map": "/thought-of-the-day/static/js/787.467e3559.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dbdff40.css",
+    "static/js/main.006aa0ce.js"
+  ]
+}
